@@ -13,7 +13,7 @@
 
 * Once safe mode is disabled you will need to disconnect and reconnect to your db
 
-ALTERNATIVE SETUP: https://sqlfiddle.com/mysql/online-compiler 
+ALTERNATIVE SETUP: https://sqlfiddle.com/mysql/online-compiler or https://www.db-fiddle.com/ 
 
 ## Part 1 - Initialize data
 
